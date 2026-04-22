@@ -1,0 +1,12 @@
+
+# Données volumineuses
+data/ligands/african_plants/coconut_sdf_3d-03-2026.sdf
+data/ligands/prepared/pdbqt/
+
+# Environnement virtuel
+.venv/
+
+# Fichiers temporaires
+.tmp.driveupload/
+__pycache__/
+*.pyc

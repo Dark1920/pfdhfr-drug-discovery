@@ -1,0 +1,23 @@
+﻿Name;SMILES;Plant;PubChem_CID
+Azadirachtin;C/C=C(\C)/C(=O)O[C@H]1C[C@H]([C@]2(CO[C@@H]3[C@@H]2[C@]14CO[C@@]([C@H]4[C@]([C@@H]3O)(C)[C@@]56[C@@H]7C[C@H]([C@@]5(O6)C)[C@]8(C=CO[C@H]8O7)O)(C(=O)OC)O)C(=O)OC)OC(=O)C;Azadirachta indica( Neem);5281303
+Nimbin;CC1=C2[C@@H](C[C@H]1C3=COC=C3)O[C@H]4[C@@]2([C@@H]([C@@]5([C@@H]([C@H]4OC(=O)C)[C@](C=CC5=O)(C)C(=O)OC)C)CC(=O)OC)C;Azadirachta indica( Neem);108058
+Quercetin;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O;Combretum micranthum(Kinkeliba);5280343
+Luteolin;C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O;Combretum micranthum(Kinkeliba);5280445
+Vitexin;C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O;Combretum micranthum(Kinkeliba);5280441
+Ellagic Acid;C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O;Combretum micranthum(Kinkeliba);5281855
+Epicatechin;C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O;Combretum micranthum(Kinkeliba);72276
+Catechin;C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O;Combretum micranthum(Kinkeliba);9064
+Kaempferol;C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O;Moringa oleifera;5280863
+Isoquercetin;C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O;Moringa oleifera;5280804
+Chlorogenic Acid;C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O;Moringa oleifera;1794427
+Artemisinin;C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C;Artemisia annua;68827
+Artesunate;C[C@@H]1CC[C@H]2[C@H]([C@@H](O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)OC(=O)CCC(=O)O)C;Artemisia annua;6917864
+1,8-Cineole;CC1(C2CCC(O1)(CC2)C)C;Artemisia annua;2758
+Chrysophanol;CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O;Cassia sieberiana;10208
+Emodin;CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O;Cassia sieberiana;3220
+Ursolic Acid;C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O;Vitex doniana;64945
+beta-Sitosterol;CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C;Vitex doniana;222284
+Gallic Acid;C1=C(C=C(C(=C1O)O)O)C(=O)O;Parkia biglobosa(néré);370
+Caffeic Acid;C1=CC(=C(C=C1/C=C/C(=O)O)O)O;Guiera senegalensis;689043
+alpha-Pinene;CC1=CCC2CC1C2(C)C;Eucalyptus camaldulensis;6654
+Benzyl Isothiocyanate;C1=CC=C(C=C1)CN=C=S;Carica papaya;2346
